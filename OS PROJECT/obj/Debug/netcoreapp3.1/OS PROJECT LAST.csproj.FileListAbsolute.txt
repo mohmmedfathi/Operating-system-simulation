@@ -1,0 +1,68 @@
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.exe
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.deps.json
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.json
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.dev.json
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csproj.AssemblyReference.cache
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfoInputs.cache
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfo.cs
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csproj.CoreCompileInputs.cache
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\EMA\source\repos\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.genruntimeconfig.cache
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.exe
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.deps.json
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.json
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.dev.json
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csproj.AssemblyReference.cache
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfoInputs.cache
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfo.cs
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csproj.CoreCompileInputs.cache
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\EMA\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.genruntimeconfig.cache
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.exe
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.deps.json
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.json
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.dev.json
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csprojAssemblyReference.cache
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfo.cs
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\Dream\Desktop\OS PROJECT LAST\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.genruntimeconfig.cache
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.exe
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.deps.json
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.json
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.dev.json
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csproj.AssemblyReference.cache
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfoInputs.cache
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfo.cs
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csproj.CoreCompileInputs.cache
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\EMA\Desktop\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.genruntimeconfig.cache
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.exe
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.deps.json
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.json
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.runtimeconfig.dev.json
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\bin\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csprojAssemblyReference.cache
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.AssemblyInfo.cs
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.dll
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.pdb
+C:\Users\Dream\Desktop\Projects os\OS1\OS PROJECT LAST\obj\Debug\netcoreapp3.1\OS PROJECT LAST.genruntimeconfig.cache
