@@ -1,6 +1,6 @@
 # OS simulation
 
-It's a Python project to simulate the operating system.
+It's a c# project to simulate the operating system.
 
 
 
@@ -38,8 +38,6 @@ It's a Python project to simulate the operating system.
 
 2. ### **Class Virtual-disk:**
 
-   - ***Instructor()*** 
-
      - create text file of 1 MB contains 1024 clusters/Blocks of size 1024 byte 
 
      - first cluster full of "0" =========> Super_Block
@@ -66,7 +64,6 @@ It's a Python project to simulate the operating system.
 
 3. ### Class FAT
 
-   - ***Instructor()*** 
 
      - create array of 1024 byte
 
@@ -112,11 +109,7 @@ It's a Python project to simulate the operating system.
 
 4. ### Class Directory_Entry
 
-   - ***Instructor()*** 
 
-     - Take File name, File attribute, First cluster, File size, File if empty
-
-       
 
    - ***get_dirEntry()***
 
@@ -127,12 +120,6 @@ It's a Python project to simulate the operating system.
      
 
 5. ### Class Directory:
-
-   - ***Instructor()*** 
-
-     - Store all directory entries in on one directory array
-
-       
 
      
 
